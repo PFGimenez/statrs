@@ -76,3 +76,4 @@ pub mod generate;
 pub mod prec;
 pub mod statistics;
 pub mod stats_tests;
+pub use rand;
